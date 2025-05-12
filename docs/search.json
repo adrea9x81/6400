@@ -51,9 +51,9 @@
   {
     "objectID": "listings/03-customer-segmentation-clustering.html",
     "href": "listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Segmentation Using Clustering",
+    "title": "Volunteer Engagement Strategy for Girl Scouts",
     "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+    "text": "Overview\nThis project focused on increasing volunteer engagement within underserved areas by identifying troop needs, streamlining communication, and offering tailored leadership support. Insights from membership data and direct feedback shaped outreach strategies and training materials.\n\n\n\n\nLearning Outcomes\n\nAssessed regional volunteer coverage gaps using membership data\n\nDesigned outreach plans to recruit and retain adult volunteers\n\nFacilitated onboarding and ongoing support for new leaders\n\nCreated targeted training sessions to improve leader confidence\n\nStrengthened engagement through personalized communication\n\n\n\n\nKey Skills Gained\n\nCommunity outreach strategy\n\nData-informed program development\n\nTraining and facilitation\n\nConflict resolution and retention planning"
   },
   {
     "objectID": "listings/01-campaign-insights-dashboard.html",

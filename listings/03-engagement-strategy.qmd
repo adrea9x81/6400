@@ -1,0 +1,26 @@
+---
+title: "Volunteer Engagement Strategy for Girl Scouts"
+image: "https://placehold.co/600x400?text=Volunteer+Strategy"
+categories: [Community Outreach, Engagement Strategy, Data Analysis, Nonprofit Operations, Leadership Training]
+index: 3
+---
+
+#### **Overview**  
+This project focused on increasing volunteer engagement within underserved areas by identifying troop needs, streamlining communication, and offering tailored leadership support. Insights from membership data and direct feedback shaped outreach strategies and training materials.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Assessed regional volunteer coverage gaps using membership data  
+- Designed outreach plans to recruit and retain adult volunteers  
+- Facilitated onboarding and ongoing support for new leaders  
+- Created targeted training sessions to improve leader confidence  
+- Strengthened engagement through personalized communication
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Community outreach strategy  
+- Data-informed program development  
+- Training and facilitation  
+- Conflict resolution and retention planning  
+:::
