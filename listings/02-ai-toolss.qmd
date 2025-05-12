@@ -1,0 +1,27 @@
+---
+title: "AI Tool Usage & Risk Perception Analysis"
+image: "https://placehold.co/600x400?text=AI+Tool+Analysis"
+categories: [Survey Analysis, AI Adoption, Risk Perception, Data Visualization, Digital Strategy]
+index: 2
+---
+
+#### **Overview**  
+This project analyzed how volunteers informally use AI tools and their perceived risks related to data security and output reliability. Insights were used to inform digital strategy and training needs within a nonprofit context.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Identified commonly used AI tools among volunteers  
+- Analyzed perceived concerns around data accuracy and privacy  
+- Evaluated patterns in tool usage by role and confidence level  
+- Created data-driven recommendations for AI training and governance  
+- Visualized insights to support leadership decision-making
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Survey design and analysis  
+- Risk perception analysis  
+- Data wrangling in R  
+- Visualization with ggplot2  
+- Strategic communication of findings
+:::
