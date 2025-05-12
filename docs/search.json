@@ -145,5 +145,19 @@
     "title": "Résumé",
     "section": "Work Experience",
     "text": "Work Experience\n\nMembership Specialist, Girl Scouts of Greater Los Angeles\nJul 2023 – Present\n\nLead membership retention and volunteer engagement strategies across multiple communities\n\nOnboard and train new troop leaders, resolving conflicts and ensuring policy alignment\n\nCoordinate area events and lead monthly service unit meetings\n\nAnalyze participation data using Salesforce CRM and internal dashboards\n\n\n\n\nArea Manager, Amazon\nApr 2024 – Jul 2024\n\nSupervised warehouse operations including labor allocation and productivity metrics\n\nMaintained safety standards and ensured fulfillment KPIs were met\n\nManaged cross-functional communication between departments and frontline staff\n\nApplied Lean principles to streamline workflows and reduce delay\n\n\n\n\nShift Lead, Best Buy\nJun 2021 – Jan 2023\n\nDirected team operations during high-traffic hours, ensuring sales and service standards\n\nMentored employees and supported onboarding of seasonal staff\n\nCoordinated inventory audits and assisted with merchandising plans\n\nSupported local outreach events and customer experience campaigns"
+  },
+  {
+    "objectID": "listings/01-streaming-services.html",
+    "href": "listings/01-streaming-services.html",
+    "title": "Streaming Services Pricing Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building an interactive dashboard to analyze college students’ price sensitivity toward streaming services like Netflix, Hulu, and Disney+. Using R and Shiny, I visualized insights from survey data to evaluate willingness to pay, perceived value, and brand preference.\n\n\n\n\nLearning Outcomes\n\nApplied Gabor-Granger pricing model to survey data\n\nVisualized customer value perception across platforms\n\nIdentified price thresholds and service bundling opportunities\n\nUsed reactive inputs to enable real-time data exploration\n\nDelivered insights to support pricing strategy decisions\n\n\n\n\nKey Skills Gained\n\nConsumer pricing analysis\n\nSurvey data wrangling in R\n\nInteractive data storytelling\n\nStrategic marketing insights"
+  },
+  {
+    "objectID": "listings/02-ai-toolss.html",
+    "href": "listings/02-ai-toolss.html",
+    "title": "AI Tool Usage & Risk Perception Analysis",
+    "section": "",
+    "text": "Overview\nThis project analyzed how volunteers informally use AI tools and their perceived risks related to data security and output reliability. Insights were used to inform digital strategy and training needs within a nonprofit context.\n\n\n\n\nLearning Outcomes\n\nIdentified commonly used AI tools among volunteers\n\nAnalyzed perceived concerns around data accuracy and privacy\n\nEvaluated patterns in tool usage by role and confidence level\n\nCreated data-driven recommendations for AI training and governance\n\nVisualized insights to support leadership decision-making\n\n\n\n\nKey Skills Gained\n\nSurvey design and analysis\n\nRisk perception analysis\n\nData wrangling in R\n\nVisualization with ggplot2\n\nStrategic communication of findings"
   }
 ]
