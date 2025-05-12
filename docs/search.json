@@ -58,9 +58,9 @@
   {
     "objectID": "listings/01-campaign-insights-dashboard.html",
     "href": "listings/01-campaign-insights-dashboard.html",
-    "title": "Campaign Insights Dashboard",
+    "title": "Streaming Services Pricing Dashboard",
     "section": "",
-    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+    "text": "Overview\nThis project involved building an interactive dashboard to analyze college students’ price sensitivity toward streaming services like Netflix, Hulu, and Disney+. Using R and Shiny, I visualized insights from survey data to evaluate willingness to pay, perceived value, and brand preference.\n\n\n\n\nLearning Outcomes\n\nApplied Gabor-Granger pricing model to survey data\n\nVisualized customer value perception across platforms\n\nIdentified price thresholds and service bundling opportunities\n\nUsed reactive inputs to enable real-time data exploration\n\nDelivered insights to support pricing strategy decisions\n\n\n\n\nKey Skills Gained\n\nConsumer pricing analysis\n\nSurvey data wrangling in R\n\nInteractive data storytelling\n\nStrategic marketing insights"
   },
   {
     "objectID": "index.html",
