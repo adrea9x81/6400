@@ -1,28 +1,28 @@
 ---
-title: "Campaign Insights Dashboard"
-image: "https://placehold.co/600x400?text=Campaign+Dashboard"
-categories: [Dashboarding, Marketing Analytics, Data Visualization, Performance Metrics, Customer Insights]
+title: "Streaming Services Pricing Dashboard"
+image: "https://placehold.co/600x400?text=Streaming+Pricing+Dashboard"
+categories: [Dashboarding, Digital Marketing, Data Visualization, Pricing Analysis, Consumer Insights]
 index: 1
 ---
 
 #### **Overview**  
-This project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.
+This project involved building an interactive dashboard to analyze college students' price sensitivity toward streaming services like Netflix, Hulu, and Disney+. Using R and Shiny, I visualized insights from survey data to evaluate willingness to pay, perceived value, and brand preference.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Visualize and monitor key marketing metrics.  
-- Analyze performance trends across multiple campaigns.  
-- Identify high- and low-performing segments.  
-- Communicate insights through interactive visuals.  
-- Develop data-informed recommendations.
+- Applied Gabor-Granger pricing model to survey data  
+- Visualized customer value perception across platforms  
+- Identified price thresholds and service bundling opportunities  
+- Used reactive inputs to enable real-time data exploration  
+- Delivered insights to support pricing strategy decisions
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Dashboard development  
-- Campaign analytics  
-- Data wrangling in R  
-- Tableau or R Shiny visualization  
-- Performance measurement
+- Consumer pricing analysis  
+- Survey data wrangling in R  
+- Interactive data storytelling  
+- Strategic marketing insights
 :::
+
 :::
