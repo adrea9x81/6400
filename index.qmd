@@ -4,7 +4,7 @@ title: "Hi, I'm Andrea Aceves"
 
 ::::: columns
 ::: {.column width="30%"}
-![](C:/Users/adrea/OneDrive/Desktop/M10/portfolio-website-template/IMG_3347.JPG){width="100%" style="border-radius: 50%;"}
+![](C:/Users/adrea/OneDrive/Desktop/6400/6400/images/headshot.jpg){width="100%" style="border-radius: 50%;"}
 :::
 
 ::: {.column width="70%" style="padding-left: 3rem;"}
