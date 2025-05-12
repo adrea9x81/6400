@@ -2,59 +2,57 @@
 title: "Strategic Marketing"
 ---
 
-Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
+Below are selected projects that showcase my work in strategic marketing, data-driven outreach, and digital communication. These examples highlight how I apply leadership, analytics, and creative problem-solving to engage communities, guide pricing decisions, and drive marketing effectiveness.
 
-## [Project Title 1: Strategic Campaign Planning]
+## Streaming Services Pricing Strategy
 
-In this project, I led the development of a comprehensive marketing campaign for **[product, service, or initiative]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
+In this project, I led a pricing analysis using survey data from college students to evaluate willingness to pay for streaming platforms like Netflix and Hulu. I applied the Gabor-Granger model to identify optimal pricing thresholds and bundling opportunities, delivering findings through an interactive R Shiny dashboard.
 
 **Skills Demonstrated:**
 
-- **Marketing Strategy:** Defined objectives and tactics for maximum impact.
-- **Team Coordination:** Oversaw collaboration across creative, data, and channel teams.
-- **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
-- **Brand Positioning:** Ensured consistency across all touchpoints.
+- **Marketing Research:** Designed survey instruments to capture pricing behavior.
+- **Strategic Analysis:** Interpreted price sensitivity and service value perceptions.
+- **Dashboarding:** Built a user-friendly interface for real-time data exploration.
+- **Digital Strategy:** Provided bundling and messaging recommendations.
 
 ---
 
-## [Project Title 2: Brand Audit & Positioning]
+## Girl Scouts Volunteer Engagement Strategy
 
-This initiative involved conducting a full brand audit for **[organization or brand]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
+This initiative involved assessing and expanding adult volunteer participation across underserved areas. I used membership data and troop leader feedback to design tailored outreach, training sessions, and engagement strategies.
 
 **Skills Demonstrated:**
 
-- **Brand Analysis:** Audited messaging, tone, and visual identity.
-- **Competitive Benchmarking:** Evaluated brand positioning within the market.
-- **Strategic Communication:** Developed new value propositions and storytelling elements.
-- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+- **Community Engagement:** Drove volunteer recruitment and retention plans.
+- **Data-Informed Outreach:** Identified troop needs using membership insights.
+- **Leadership Development:** Facilitated onboarding and coaching for new leaders.
+- **Stakeholder Communication:** Delivered regular updates and resources to local units.
 
 ---
 
-## [Project Title 3: Product Launch Go-to-Market Plan]
+## AI Tool Usage & Risk Perception Study
 
-For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
+I conducted a survey-based research project analyzing how nonprofit volunteers use AI tools like ChatGPT, their concerns about data privacy, and how they manage output accuracy. Insights were used to shape future training and digital governance.
 
 **Skills Demonstrated:**
 
-- **Go-to-Market Strategy:** Developed a clear launch roadmap aligned with buyer needs.
-- **Integrated Marketing:** Orchestrated email, paid ads, social, and on-site promotions.
-- **Budget Management:** Allocated resources efficiently across tactics.
-- **Launch Optimization:** Tracked performance and refined tactics in real time.
-
-Below is an embedded demonstration of the interactive report:
-
-
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+- **Survey Design & Analysis:** Collected and analyzed AI usage data.
+- **Digital Literacy Assessment:** Identified knowledge gaps and comfort levels.
+- **Risk Communication:** Synthesized insights into actionable recommendations.
+- **Data Visualization:** Communicated key findings using charts and graphs in R.
 
 ---
 
-## [Project Title 4: Client Consulting & Campaign Optimization]
+## Campaign Performance Dashboard
 
-I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
+This dashboard tracked key marketing metrics such as conversion rates and ROI across digital channels. Built using R and Shiny, it allowed for interactive filtering and real-time performance analysis to support campaign optimization decisions.
 
 **Skills Demonstrated:**
 
-- **Client Consulting:** Provided clear insights and strategic guidance.
-- **Persona Development:** Built target personas to guide messaging.
-- **Campaign Optimization:** Identified and addressed areas of underperformance.
-- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
+- **Performance Tracking:** Monitored marketing KPIs across platforms.
+- **Interactive Reporting:** Enabled dynamic exploration of campaign data.
+- **Data Wrangling:** Cleaned and structured data sources in R.
+- **Insight Communication:** Turned complex data into stakeholder-ready visuals.
+
+
+---

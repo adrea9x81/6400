@@ -4,7 +4,7 @@
     "href": "strategic-marketing.html",
     "title": "Strategic Marketing",
     "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+    "text": "Below are selected projects that showcase my work in strategic marketing, data-driven outreach, and digital communication. These examples highlight how I apply leadership, analytics, and creative problem-solving to engage communities, guide pricing decisions, and drive marketing effectiveness."
   },
   {
     "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
@@ -159,5 +159,33 @@
     "title": "AI Tool Usage & Risk Perception Analysis",
     "section": "",
     "text": "Overview\nThis project analyzed how volunteers informally use AI tools and their perceived risks related to data security and output reliability. Insights were used to inform digital strategy and training needs within a nonprofit context.\n\n\n\n\nLearning Outcomes\n\nIdentified commonly used AI tools among volunteers\n\nAnalyzed perceived concerns around data accuracy and privacy\n\nEvaluated patterns in tool usage by role and confidence level\n\nCreated data-driven recommendations for AI training and governance\n\nVisualized insights to support leadership decision-making\n\n\n\n\nKey Skills Gained\n\nSurvey design and analysis\n\nRisk perception analysis\n\nData wrangling in R\n\nVisualization with ggplot2\n\nStrategic communication of findings"
+  },
+  {
+    "objectID": "strategic-marketing.html#streaming-services-pricing-strategy",
+    "href": "strategic-marketing.html#streaming-services-pricing-strategy",
+    "title": "Strategic Marketing",
+    "section": "Streaming Services Pricing Strategy",
+    "text": "Streaming Services Pricing Strategy\nIn this project, I led a pricing analysis using survey data from college students to evaluate willingness to pay for streaming platforms like Netflix and Hulu. I applied the Gabor-Granger model to identify optimal pricing thresholds and bundling opportunities, delivering findings through an interactive R Shiny dashboard.\nSkills Demonstrated:\n\nMarketing Research: Designed survey instruments to capture pricing behavior.\nStrategic Analysis: Interpreted price sensitivity and service value perceptions.\nDashboarding: Built a user-friendly interface for real-time data exploration.\nDigital Strategy: Provided bundling and messaging recommendations."
+  },
+  {
+    "objectID": "strategic-marketing.html#girl-scouts-volunteer-engagement-strategy",
+    "href": "strategic-marketing.html#girl-scouts-volunteer-engagement-strategy",
+    "title": "Strategic Marketing",
+    "section": "Girl Scouts Volunteer Engagement Strategy",
+    "text": "Girl Scouts Volunteer Engagement Strategy\nThis initiative involved assessing and expanding adult volunteer participation across underserved areas. I used membership data and troop leader feedback to design tailored outreach, training sessions, and engagement strategies.\nSkills Demonstrated:\n\nCommunity Engagement: Drove volunteer recruitment and retention plans.\nData-Informed Outreach: Identified troop needs using membership insights.\nLeadership Development: Facilitated onboarding and coaching for new leaders.\nStakeholder Communication: Delivered regular updates and resources to local units."
+  },
+  {
+    "objectID": "strategic-marketing.html#ai-tool-usage-risk-perception-study",
+    "href": "strategic-marketing.html#ai-tool-usage-risk-perception-study",
+    "title": "Strategic Marketing",
+    "section": "AI Tool Usage & Risk Perception Study",
+    "text": "AI Tool Usage & Risk Perception Study\nI conducted a survey-based research project analyzing how nonprofit volunteers use AI tools like ChatGPT, their concerns about data privacy, and how they manage output accuracy. Insights were used to shape future training and digital governance.\nSkills Demonstrated:\n\nSurvey Design & Analysis: Collected and analyzed AI usage data.\nDigital Literacy Assessment: Identified knowledge gaps and comfort levels.\nRisk Communication: Synthesized insights into actionable recommendations.\nData Visualization: Communicated key findings using charts and graphs in R."
+  },
+  {
+    "objectID": "strategic-marketing.html#campaign-performance-dashboard",
+    "href": "strategic-marketing.html#campaign-performance-dashboard",
+    "title": "Strategic Marketing",
+    "section": "Campaign Performance Dashboard",
+    "text": "Campaign Performance Dashboard\nThis dashboard tracked key marketing metrics such as conversion rates and ROI across digital channels. Built using R and Shiny, it allowed for interactive filtering and real-time performance analysis to support campaign optimization decisions.\nSkills Demonstrated:\n\nPerformance Tracking: Monitored marketing KPIs across platforms.\nInteractive Reporting: Enabled dynamic exploration of campaign data.\nData Wrangling: Cleaned and structured data sources in R.\nInsight Communication: Turned complex data into stakeholder-ready visuals."
   }
 ]
